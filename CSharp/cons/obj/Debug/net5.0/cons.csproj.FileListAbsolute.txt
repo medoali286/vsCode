@@ -1,0 +1,16 @@
+D:\Projects\VSCode\csharp\cons\bin\Debug\net5.0\cons.exe
+D:\Projects\VSCode\csharp\cons\bin\Debug\net5.0\cons.deps.json
+D:\Projects\VSCode\csharp\cons\bin\Debug\net5.0\cons.runtimeconfig.json
+D:\Projects\VSCode\csharp\cons\bin\Debug\net5.0\cons.runtimeconfig.dev.json
+D:\Projects\VSCode\csharp\cons\bin\Debug\net5.0\cons.dll
+D:\Projects\VSCode\csharp\cons\bin\Debug\net5.0\ref\cons.dll
+D:\Projects\VSCode\csharp\cons\bin\Debug\net5.0\cons.pdb
+D:\Projects\VSCode\csharp\cons\obj\Debug\net5.0\cons.csprojAssemblyReference.cache
+D:\Projects\VSCode\csharp\cons\obj\Debug\net5.0\cons.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VSCode\csharp\cons\obj\Debug\net5.0\cons.AssemblyInfoInputs.cache
+D:\Projects\VSCode\csharp\cons\obj\Debug\net5.0\cons.AssemblyInfo.cs
+D:\Projects\VSCode\csharp\cons\obj\Debug\net5.0\cons.csproj.CoreCompileInputs.cache
+D:\Projects\VSCode\csharp\cons\obj\Debug\net5.0\cons.dll
+D:\Projects\VSCode\csharp\cons\obj\Debug\net5.0\ref\cons.dll
+D:\Projects\VSCode\csharp\cons\obj\Debug\net5.0\cons.pdb
+D:\Projects\VSCode\csharp\cons\obj\Debug\net5.0\cons.genruntimeconfig.cache

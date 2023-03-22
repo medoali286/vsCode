@@ -1,0 +1,16 @@
+D:\Projects\VScode\csharp\staticmodefire\bin\Debug\net5.0\staticmodefire.exe
+D:\Projects\VScode\csharp\staticmodefire\bin\Debug\net5.0\staticmodefire.deps.json
+D:\Projects\VScode\csharp\staticmodefire\bin\Debug\net5.0\staticmodefire.runtimeconfig.json
+D:\Projects\VScode\csharp\staticmodefire\bin\Debug\net5.0\staticmodefire.runtimeconfig.dev.json
+D:\Projects\VScode\csharp\staticmodefire\bin\Debug\net5.0\staticmodefire.dll
+D:\Projects\VScode\csharp\staticmodefire\bin\Debug\net5.0\ref\staticmodefire.dll
+D:\Projects\VScode\csharp\staticmodefire\bin\Debug\net5.0\staticmodefire.pdb
+D:\Projects\VScode\csharp\staticmodefire\obj\Debug\net5.0\staticmodefire.csprojAssemblyReference.cache
+D:\Projects\VScode\csharp\staticmodefire\obj\Debug\net5.0\staticmodefire.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VScode\csharp\staticmodefire\obj\Debug\net5.0\staticmodefire.AssemblyInfoInputs.cache
+D:\Projects\VScode\csharp\staticmodefire\obj\Debug\net5.0\staticmodefire.AssemblyInfo.cs
+D:\Projects\VScode\csharp\staticmodefire\obj\Debug\net5.0\staticmodefire.csproj.CoreCompileInputs.cache
+D:\Projects\VScode\csharp\staticmodefire\obj\Debug\net5.0\staticmodefire.dll
+D:\Projects\VScode\csharp\staticmodefire\obj\Debug\net5.0\ref\staticmodefire.dll
+D:\Projects\VScode\csharp\staticmodefire\obj\Debug\net5.0\staticmodefire.pdb
+D:\Projects\VScode\csharp\staticmodefire\obj\Debug\net5.0\staticmodefire.genruntimeconfig.cache
